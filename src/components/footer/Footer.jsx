@@ -14,7 +14,7 @@ function Footer() {
       </p>
       <div className={styles.links}>
         <a
-          href=""
+          href="https://www.linkedin.com/in/arnav-singha/"
           title="Author LinkedIn account"
           target="_blank"
           rel="noopener noreferrer"
@@ -22,7 +22,7 @@ function Footer() {
           <FaLinkedin />
         </a>
         <a
-          href=""
+          href="https://github.com/ArnavSingha"
           title="Author github account"
           target="_blank"
           rel="noopener noreferrer"
