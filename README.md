@@ -36,7 +36,7 @@ This is a Weather Dashboard application designed to provide users with up-to-dat
 
 ### Features
 
-- Default city is Cairo, EG, providing weather information for this location.
+- Default city is Bhubaneswar, IND, providing weather information for this location.
 - Real-time weather data based on the user's current geographical location if you click on Current Location button.
 - Search for any city and instantly view its weather conditions.
 - Get Today's Highlights, including the Sunrise & Sunset times, Humidity, Pressure, Visibility, and "Feels Like" temperature.
