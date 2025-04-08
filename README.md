@@ -11,8 +11,6 @@
 - [Project Structure](#project-structure)
 - [API Integration](#api-integration)
 - [Installation](#installation)
-- [License](#license)
-- [Author](#author)
 
 ### Overview
 
@@ -34,7 +32,7 @@ This is a Weather Dashboard application designed to provide users with up-to-dat
 
 ### Links
 
-- Live Site URL : [Weather Application](https://weatheritoo.vercel.app/)
+- Live Site URL : [Weather Application](https://weatherico.netlify.app/)
 
 ### Features
 
@@ -46,23 +44,6 @@ This is a Weather Dashboard application designed to provide users with up-to-dat
 - Access a 5-day Weather Forecast.
 - Light and Dark Modes, represented by a sun or moon icon. Your chosen mode is saved using local storage.
 
-### Lighthouse Report Metrics
-
-- **Desktop Metrics:**
-
-  - Performance: Outstanding at 99%
-  - Accessibility: High score of 95%
-  - Best Practices: High score of 93%
-  - SEO: Perfect score of 100%
-
-- **Mobile Metrics:**
-  - Performance: Solid at around 90%
-  - Accessibility: High score of 94%
-  - Best Practices: High score of 93%
-  - SEO: Impressive score of 97%
-
-The Lighthouse report provides valuable metrics for both desktop and mobile, showcasing outstanding performance, accessibility, best practices, and SEO optimization.
-These metrics reflect a well-optimized and compliant website.
 
 ## Project Structure
 
@@ -106,7 +87,7 @@ fetch(
 To set up and run the Weather Dashboard locally with an API key, follow these steps:
 
 ```bash
-git clone https://github.com/AbdelrahmanAlsayed/Weather-Application
+git clone https://github.com/ArnavSingha/WeatheriCo.git
 cd your-project-directory
 echo "REACT_APP_OPENWEATHERMAP_API_KEY=your-api-key-here" > .env
 npm install && npm run dev
